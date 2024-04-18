@@ -1,8 +1,12 @@
+E-commerence Sales Analysis Dashboard
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Screenshot 2024-04-18 195406](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/6ae1fcce-1f71-4f81-94d6-6881115f03e4)
 
 Successful ecommerce businesses need to optimize every stage of the customer journey, from first touch to purchase.
  This ecommerce dashboard is a curated set of metrics, KPIs and other data that’s designed to highlight, in the clearest possible way, trends, anomalies and information related to an online store that regularly warrants attention.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Attributes present in given Dataset:
 
 Additional Order items,
@@ -28,6 +32,7 @@ Profit Per Order,
 Sales,
 Metrics Used in this Analysis
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sales - Category wise, region wise,
 Market Share,
 Customer Acquisition Per month,
@@ -35,7 +40,7 @@ Profit,
 Margins,
 Order Quantity,
 Product category analysis
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![Screenshot 2024-04-18 195648](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/adda79b3-0e8b-4e14-932c-dff9be7c0ca4)
