@@ -37,8 +37,9 @@ Profit
 Margins
 Order Quantity
 Product category analysis
-![Screenshot 2024-04-18 134346](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/d9ff31a1-8b83-4f01-a8ec-9583da1026a8)
-![Screenshot 2024-04-18 195648](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/adda79b3-0e8b-4e14-932c-dff9be7c0ca4)
+
+![Screenshot 2024-04-18 195648](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/adda79b3-0e8b-4e14-932c-dff9be7c0ca4)![Screenshot 2024-04-18 195851](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/a39e407b-1951-4090-b0f3-c948b1ab05e3)
+
 
 ![Screenshot 2024-04-18 134623](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/65411c6b-299e-452e-9875-23fccc1afecf)
 ![Screenshot 2024-04-18 134555](https://github.com/Bhawnagundh26/E-commerence-sales-analysis/assets/91724415/e0058ac2-13a2-4783-9cc0-a4947b857f9e)
