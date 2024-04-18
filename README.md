@@ -5,35 +5,35 @@ Successful ecommerce businesses need to optimize every stage of the customer jou
 
 Attributes present in given Dataset:
 
-Additional Order items
-Category Name
-Customer City
-Customer Country
-Customer Fname
-Customer Id
-Customer Segment
-Customer State
-Customer Zipcode
-Market
-Order Customer Id
-Order Date
-Order Id
-Order Region
-Order Item
-Total
-Order Quantity
-Product Price
-Profit Margin
-Profit Per Order
-Sales
+Additional Order items,
+Category Name,
+Customer City,
+Customer Country,
+Customer Fname,
+Customer Id,
+Customer Segment,
+Customer State,
+Customer Zipcode,
+Market,
+Order Customer Id,
+Order Date,
+Order Id,
+Order Region,
+Order Item,
+Total,
+Order Quantity,
+Product Price,
+Profit Margin,
+Profit Per Order,
+Sales,
 Metrics Used in this Analysis
 
-Sales - Category wise, region wise
-Market Share
-Customer Acquisition Per month
-Profit
-Margins
-Order Quantity
+Sales - Category wise, region wise,
+Market Share,
+Customer Acquisition Per month,
+Profit,
+Margins,
+Order Quantity,
 Product category analysis
 
 
