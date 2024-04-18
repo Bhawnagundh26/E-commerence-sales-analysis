@@ -7,9 +7,7 @@ Successful ecommerce businesses need to optimize every stage of the customer jou
  This ecommerce dashboard is a curated set of metrics, KPIs and other data that’s designed to highlight, in the clearest possible way, trends, anomalies and information related to an online store that regularly warrants attention.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Attributes present in given Dataset:
-
-Additional Order items,
+Attributes present in given Dataset-Additional Order items,
 Category Name,
 Customer City,
 Customer Country,
